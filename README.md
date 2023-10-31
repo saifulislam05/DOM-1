@@ -2,6 +2,8 @@
 
 This project demonstrates how to manipulate the styling of a `<div>` element dynamically using JavaScript and the Document Object Model (DOM) methods.
 
+## Hosted link 
+ Click to View live 👉 https://saifulislam05.github.io/DOM-1/
 ## Project Tasks
 
 ### Styling Changes Applied
